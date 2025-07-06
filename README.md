@@ -1,27 +1,27 @@
-# 🤖 AI Agent Chatbot with FastAPI
+# AI Agent Chatbot with FastAPI
 
 This is an interactive AI chatbot web app that allows users to query powerful LLMs such as **LLaMA 3 (Groq)**, with optional real-time **web search** integration using **Tavily**. The app is built with **FastAPI** as the backend and **Streamlit** as the frontend.
 
 ---
 
 
-## 🚀 Features
+##  Features
 
-- 💬 Chat with powerful language models (LLaMA 3 via Groq API)
-- 🔍 Option to enable web search using Tavily
-- 🔧 Switchable model interface
-- ⚡ Fast and responsive UI with Streamlit
-- 🛠️ Modular codebase with separate backend/frontend
+-  Chat with powerful language models (LLaMA 3 via Groq API)
+-  Option to enable web search using Tavily
+-  Switchable model interface
+-  Fast and responsive UI with Streamlit
+-  Modular codebase with separate backend/frontend
 
 ---
 
-## 🧠 Tech Stack
+##  Tech Stack
 
 | Component    | Tech        |
 |--------------|-------------|
 | Frontend     | Streamlit   |
 | Backend      | FastAPI     |
-| LLMs         | Groq (LLaMA3), OpenAI (optional) |
+| LLMs         | Groq (LLaMA3) |
 | Web Search   | Tavily API  |
 | Agent System | LangChain   |
 | Env Manager  | dotenv      |
@@ -29,7 +29,7 @@ This is an interactive AI chatbot web app that allows users to query powerful LL
 
 ---
 
-## 🗂️ Project Structure
+##  Project Structure
 ```bash
 .
 ├── ai_agent/
